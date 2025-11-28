@@ -1,3 +1,5 @@
+# Welcome to Signal Analysis project!
+
 ▎Signal Analysis in Python
 
 Welcome to the Signal Analysis in Python repository! This educational resource is designed to introduce you to the fascinating world of signal processing and equip you with practical skills to analyze and interpret signals using Python. Whether you're a beginner or looking to deepen your understanding, this repository offers a structured approach to learning key concepts and techniques in signal analysis.
